@@ -9,6 +9,7 @@ public class A {
 		
 		System.out.println("are you thirsty");
 		
+		System.out.println("You can't drink Soda");
 
 		
 	}
