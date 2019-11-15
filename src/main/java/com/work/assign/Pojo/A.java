@@ -5,7 +5,12 @@ public class A {
 	
 	public void a()
 	{
-		System.out.println("Piyush");
+		System.out.println("are you hungry ");
+		
+		System.out.println("are you thirsty");
+		
+
+		
 	}
 
 }
